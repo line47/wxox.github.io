@@ -1,2 +1,4 @@
 source: DIR
 destination: DIR
+timezone: America/Kentucky/Louisville
+permalink:        pretty
