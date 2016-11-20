@@ -48,3 +48,14 @@ table {
 
 body {background: #000;
 color:#fff;}
+
+
+.top-navbar {padding:4px 8px;background:#333;}
+.top-navbar-logo {float:left;display:block;color:#fff;text-decoration:none;font-size:3em;}
+.top-navbar-logo img {margin-top:5px;}
+.top-navbar-navigation {}
+.top-navbar-navigation li {display:inline-block;}
+.top-navbar-navigation a {color:#fff;display:block;text-decoration:none;padding:16px 4px;}
+.top-navbar-navigation a:hover {color:orange;background:#000;}
+.top-navbar-navigation .dropdown-menu {display:none;}
+.top-navbar-navigation .dropdown-menu li {display:block;}
