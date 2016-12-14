@@ -1,11 +1,10 @@
-artisforeveryone:
-  name: "Art is for Everyone"
+- name: "Art is for Everyone"
   description: "Bits, schticks, music and stories for everybody, presented by actual Squallis puppets.  Suspended your disbelief and unleash the creative mind every Sunday morning 9 - 10 AM."
   host: "Squallis Puppeteers"
   showday: "Sunday"
   showtime: "10-11 AM"
-foobar:
-  name: "Foo Bar"
+
+- name: "Foo Bar"
   description: "Foo is the best kind of bar around"
   logo: "foobar.png"
   color: "Purple"  
