@@ -8,6 +8,7 @@
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
-    {{ include.foo }}
+   <h2>{{ site.data.programs[categoryname].name }}</h2>
+<h3>{{ site.data.programs[categoryname].description }}</h3>
   </body>
 </html>
