@@ -1,10 +1,29 @@
-- name: "Art is for Everyone"
-  description: "Bits, schticks, music and stories for everybody, presented by actual Squallis puppets.  Suspended your disbelief and unleash the creative mind every Sunday morning 9 - 10 AM."
-  host: "Squallis Puppeteers"
-  showday: "Sunday"
-  showtime: "10-11 AM"
+- name: "Acentos
+  description: "Acentos is a radio program that explores the arts through the eyes and perspectives of Spanish speakers. Hosted by Luis de Leon of Appalatin.  /  Acentos es un programa de radio que explora las artes a través de los ojos y las perspectivas de los hispanohablantes. Organizado por Luis de León de Appalatin. En español."
+  host: "Luis de Leon"
+  showday: "Wednesday"
+  showtime: "2-3 PM"
+  url:
+  facebook: "https://www.facebook.com/Acentos-183326991820482/"
+  twitter:
+  instagram:
 
-- name: "Foo Bar"
-  description: "Foo is the best kind of bar around"
-  logo: "foobar.png"
-  color: "Purple"  
+- name: "Alien Jingles"
+  description: "If Circuitry Could Sing. Psychedelic, drone, dance, electronic, b-sides and rarities, etc."
+  host: "Nick Sturtzel"
+  showday: "Saturday"
+  showtime: "8-10 PM"
+  url:
+  facebook: "https://www.facebook.com/AlienJingles"
+  twitter:
+  instagram:
+  
+  - name: 
+  description: 
+  host: 
+  showday: 
+  showtime: 
+  url:
+  facebook: 
+  twitter:
+  instagram:
