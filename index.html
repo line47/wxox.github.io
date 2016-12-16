@@ -6,6 +6,9 @@ layout: home
 {% for program in site.data.programs %}
   <li>
     {{ program.name }}
+	{{ program.host }} 
+	  {{ program.showday }}
+	   {{ program.showtime }}
     {{ program.description }}
   </li>
 {% endfor %}
