@@ -3,7 +3,7 @@
   host: Luis de Leon
   showday: Wednesday
   showtime: 2-3 PM
-  facebook: https://www.facebook.com/Acentos-183326991820482/
+  facebook: https://www.facebook.com/Acentos-183326991820482
 
 - name: Alien Jingles
   description: If Circuitry Could Sing. Psychedelic, drone, dance, electronic, b-sides and rarities, etc.
@@ -11,3 +11,80 @@
   showday: Saturday
   showtime: 8-10 PM
   facebook: https://www.facebook.com/AlienJingles
+
+- name: The AP Hour
+  description: The AP Hour is a musical journey through the important life moments.  The love of discovering new music and rediscovering old music through our shared experiences.  Each week will have a different topic or theme that threads music and story together.
+  host: Ali & Priscilla
+  showday: Saturday
+  showtime: 3-4 PM
+  facebook: https://www.facebook.com/theaphour
+
+- name: Art Is For Everyone
+  description: Bits, schticks, music and stories for everybody, presented by actual Squallis puppets.  Suspended your disbelief and unleash the creative mind.
+  host: Squallis Puppeteers
+  showday: Sunday
+  showtime: 10-11 AM
+  facebook:
+
+- name: Audio Art 101
+  description: In this program, Mulit-Media Artist & Fine Arts Professor Fuschia Fuchs contextualizes local contemporary artists who work with sound within the larger global framework of contemporary art. This program will be a combination recorded sound works, live and recorded interviews, and live performances by artists. Each program will also be framed within art historical and contemporary references.
+  host: Fuchsia Fuchs
+  showday: Wednesday
+  showtime: 10-11 AM
+  facebook: https://www.facebook.com/AudioArt101
+
+- name: At The Helm
+  description: Tune in for some of Ben Helm's favorite rock tunes from a wide range of decades.  Ben gives listeners brief insight into the music played by these rock legends.
+  host: Ben Helm
+  showday: Monday
+  showtime: 1-2 PM
+  facebook: https://www.facebook.com/helmonartxfm
+
+- name: Bangers & Mash
+  description: Rosé Canseco digs through dusty crates and the eclectic recesses of the web for cuts that take you on a journey dedicated to finding music from the broadest range of specific topics.
+  host: Michael Taylor
+  showday: Saturday
+  showtime: 5-6 PM
+  facebook: https://www.facebook.com/BangersandMashRadio
+
+- name: Blues Highway
+  description: Pile into the Blues Cadillac for a trip through the blues landscape. The itinerary includes stops in the Mississippi Delta out to the West Coast, down to Texas and N'Awlins, up to the Piedmont and across the pond. Hear the best of the past, present and future of the blues, the music from which all others originate.
+  host: Mike Suttles
+  showday: Sunday
+  showtime: 8-10 AM
+  facebook: https://www.facebook.com/blueshighwayartxfm
+
+- name: Cat Casual's Hotel Boheme
+  description: A place in the radio waves as an intersection of art and personalities; like the Chelsea Hotel or Beat Hotel- where music, the written word, film, visual art, and eccentric persons all share the same roof and commune. Punk, dada, folk, realism, comedy, autobiographical, political...
+  host: William Benton
+  showday: Monday
+  showtime: 2-5 PM
+  facebook: https://www.facebook.com/catcasualhotelboheme
+
+- name: Cliftones
+  description: A place in the radio waves as an intersection of art and personalities; like the Chelsea Hotel or Beat Hotel- where music, the written word, film, visual art, and eccentric persons all share the same roof and commune. Punk, dada, folk, realism, comedy, autobiographical, political...
+  host: JC Denison
+  showday: Tuesday
+  showtime: 3-6 PM
+  facebook: https://www.facebook.com/ClifTones-on-Artxfm-1498051520460275
+
+- name: Club El Rancho
+  description: Named after the first rock n roll venue in Louisville, Club El Rancho focuses on the latest Louisville and Kentucky-related music releases with no restrictions on genre. Featuring a local Record of the Week, occasional guests, and a look at the week's upcoming live shows.
+  host: Brian Manley
+  showday: Monday
+  showtime: 6-7 PM
+  facebook: https://www.facebook.com/pages/Club-El-Rancho-on-Art-Fm/454332214660817
+
+- name: Corinthian Leather
+  description: Take a late night drive with CORINTHIAN LEATHER on WXOX. Let Andrew Killmeier navigate you through the Peel Session Catalog, local music, exclusive live recordings, soundtracks, psychedelia, and other landscapes of Noir.
+  host: Andrew Killmeier
+  showday: Wednesday
+  showtime: 12-1 AM
+  facebook: https://www.facebook.com/Corinthian-Leather-1687838348123894
+
+- name: Cutting Edges
+  description: Cutting Edges brings you a cross section of avant-garde recordings from the 20th and 21st century, exploring the intersection of visual art, music and culture in the postmodern world.
+  host: Shawn Hennessey, Tony B, & Zach
+  showday: Monday
+  showtime: 8-10 PM
+  facebook: https://www.facebook.com/pages/Cutting-Edges/374260809357238
