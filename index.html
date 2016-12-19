@@ -3,13 +3,13 @@ layout: home
 ---
 
 <ul id="programs">
-{% for program in site.data.programs %}
-  <li>
-    {{ program.name }}<br>
-	{{ program.host }}
-	  {{ program.showday }}
-	   {{ program.showtime }}
-    <p>{{ program.description }}</p>
-  </li>
-{% endfor %}
+  {% for program in site.data.programs %}
+    <li>
+      <span class="program-name">{{ program.name }}</span>
+      <span class="program-host">{{ program.host }}</span>
+      <span class="program-day">{{ program.showday }}</span>
+      <span class="program-time">{{ program.showtime }}</span>
+      <p class="program-description">{{ program.description }}</p>
+    </li>
+  {% endfor %}
 </ul>
