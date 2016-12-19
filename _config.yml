@@ -1,4 +1,5 @@
-source: DIR
-destination: DIR
-timezone: America/Kentucky/Louisville
-permalink: pretty
+Source: DIR
+Destination: DIR
+Timezone: America/Kentucky/Louisville
+Permalink: pretty
+Regeneration: -w
