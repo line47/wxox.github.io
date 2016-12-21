@@ -2,21 +2,24 @@
   description: Acentos is a radio program that explores the arts through the eyes and perspectives of Spanish speakers. Hosted by Luis de Leon of Appalatin.  /  Acentos es un programa de radio que explora las artes a través de los ojos y las perspectivas de los hispanohablantes. Organizado por Luis de León de Appalatin. En español.
   host: Luis de Leon
   showday: Wednesday
-  showtime: 2-3 PM
+  showtimestart: 14:00
+  showtimeend: 15:00
   facebook: https://www.facebook.com/Acentos-183326991820482
 
 - name: Alien Jingles
   description: If Circuitry Could Sing. Psychedelic, drone, dance, electronic, b-sides and rarities, etc.
   host: Nick Sturtzel
   showday: Saturday
-  showtime: 8-10 PM
+  showtimestart: 16:00
+  showtimeend: 18:00
   facebook: https://www.facebook.com/AlienJingles
 
 - name: The AP Hour
   description: The AP Hour is a musical journey through the important life moments.  The love of discovering new music and rediscovering old music through our shared experiences.  Each week will have a different topic or theme that threads music and story together.
   host: Ali & Priscilla
   showday: Saturday
-  showtime: 3-4 PM
+  showtimestart: 15:00
+  showtimeend: 16:00
   facebook: https://www.facebook.com/theaphour
 
 - name: Art Is For Everyone
@@ -102,3 +105,447 @@
   showday: Wednesdays
   showtime: 8-10 PM
   facebook: https://www.facebook.com/thedeependshow
+
+- name: The Dig
+  description: Two musicianly men explore music and moods. With the focus on the eclectic, they touch upon new and familiar.
+  host: Joseph Hanna & Benjamin Heckel
+  showday: Thursday
+  showtime: 8-10 AM
+  facebook: https://www.facebook.com/The-Dig-on-ART-x-FM-1535411970062199/
+
+- name: Disco Dominant / Soul Submissive
+  description: Eclectic mix of disco, house, soul, funk, boogie, hip hop and more. Obscure to omnipresent and always inexplicable yet relatively relatable.
+  host: John Penn Browning
+  showday: Thursday
+  showtime: 1-3 PM
+  facebook: https://www.facebook.com/DISCO-DOMINANTsoul-submissive-511604035678625/
+
+- name: The Diva Hour
+  description: The Diva Hour with Carly & Cline, is a radio program dedicated to the incredible female singers that continually inspire and empower our lives with their voices. Ranging in genre from jazz to pop and spanning the decades from the 1920s to the present, Carly Johnson and Matt Cline will showcase a broad spectrum of music from the many ladies that have shared their incredible pipes with the world.
+  host: Carly & Cline
+  showday: Friday
+  showtime: 12-1 PM
+  facebook: https://www.facebook.com/carlyandcline/
+
+- name: Early Music Party
+  description: Go back to your roots, for real! Explore the amazing world of Western Medieval, Renaissance, and Baroque music through the brain hole of a self-educated rock & roller on this unique all-vinyl early music experience.
+  host: Jaxon Lee Swain
+  showday: Tuesday
+  showtime: 2-3 PM
+  facebook: https://www.facebook.com/earlymusicparty
+
+- name: Ear To Ear
+  description: Ear-to-Ear: radio as far as the ear can hear: world musics including personal field recordings, early ethnomusicological finds, and local culture-based music. Deep focus on music-cultures emanating from Indonesia, West Africa, and India, beginning with sources and roots and exploring divergent diasporic branches. Original Field Recordings. Interviews with guest musicians and live studio performances will be a feature of Ear-to-Ear in the near future!
+  host: Gregory Acker
+  showday: Sunday
+  showtime: 11 AM - 12 PM
+  facebook:
+
+- name: Film Fatale
+  description: Film Fatale examines film as an art form both locally and nationally. The show features interviews with filmmakers, discussions of film aesthetics, and music from scores and soundtracks.
+  host: Mike Elsherif & JohnBen Lacy
+  showday: Saturday
+  showtime: 9-10 AM
+  facebook: https://www.facebook.com/filmfataleradio
+
+- name: Flanger Magazine
+  description: Home recording, regional studios, the private press, the sound library, tape, necessity, innovation, tunnel vision, discovery.  Flanger Magazine is a chronicle of brave technique, idiosyncratic design, and an extended editorial on "going it alone."
+  host: Christopher Bush & Ben Zoeller
+  showday: Sunday
+  showtime: 2-4 PM
+  facebook: https://www.facebook.com/flangermagazine
+
+- name: Fly Closer To The Sun
+  description: Vinyl Experience
+  host: Tim Barnes
+  showday: Wednesday
+  showtime: 1-2 PM
+  facebook: https://www.facebook.com/FlyCloserToTheSun
+
+- name: Fortified Gumbo
+  description: Reggae, Dub/Versions and UK Stepper . . . No genre of music is off limits.
+  host: Prof. L aka Selecta L
+  showday: Saturday
+  showtime: 10 AM - 12 PM
+  facebook:
+
+- name: Free Associations
+  description: A subjective take on the importance of melodies, motives, chord progressions, and sound texture.  A constant search for familiar themes, patterns, repetitions and symmetry.  An awareness of the historical, social and (pop)cultural context of compositions.  Eventually, just a collection of songs discovered by means of Free Associations.
+  host: Mark
+  showday: Tuesday
+  showtime: 9-10 PM
+  facebook:
+
+- name: Fuzzbox
+  description: Sister Fox & Professor Reilly play garage, psychedelic, acid, prog, blues, folk, glam, metal, ROCK, and beyond... with frequent guests and themed shows. Expand your mind with FUZZBOX!
+  host: Heather Fox & Elizabeth Reilly
+  showday: Thursday
+  showtime: 6-8 PM
+  facebook: https://www.facebook.com/fuzzboxlouisville
+
+- name: Global Grease
+  description: DJ Kim Sorise presents an afternoon of Italian Cinematic Sleaze, Mid-East Groovers, Brazilian Beats, and Other-worldly Jams both Foreign and Domestic on Global Grease. Tune in for your International Takeover.
+  host: Kim Sorise
+  showday: Saturday
+  showtime: 2-4 PM
+  facebook: https://www.facebook.com/GlobalGrease
+
+- name: Hundred Proof Fountain
+  description: Hundred Proof Fountain is keeping old sounds alive.  Cajun, Kentucky old-time, songs of the sea, Irish, live performance, interviews and other timeless tunes pour forth and hearken back to a day of revelry long forgot.  Yes.  DJ Green Eyes and Captain Scratch provide historical context and psychodrama's for meditation.
+  host: Johanna Sims & Joel Deckard
+  showday: Thursday
+  showtime: 4-6 PM
+  facebook: https://www.facebook.com/HundredProofFountain
+
+- name: I And Eye Radio
+  description: Moving together for a cause.  70s to 90s funk, soul and hip hop for the community to rally to!
+  host: Rmllw2llz and DJ DS
+  showday: Tuesday
+  showtime: 10 PM - 12 AM
+  facebook: https://www.facebook.com/rmllmzk
+
+- name: Informed Consent
+  description: Life is comprised of patterns, themes, narratives, and relationships. Informed Consent gets your brain and body moving by exploring the same facets in music. Start your morning with songs, stories, and discussion designed to stimulate your hips, feet, and intellect.
+  host: Aaron Gregory
+  showday: Friday
+  showtimestart: 08:00
+  showtimeend: 10:00
+  facebook: https://www.facebook.com/informedconsentartxfm
+
+- name: In Orbit
+  description: An active listening session, emphasizing new music from the fringes of all genres.
+  host: Nathan Simmons
+  showday: Sunday
+  showtime: 8-9 PM
+  facebook: https://www.facebook.com/inorbit.artfm
+
+- name: Inside A Question
+  description: Inside A Question is a show that explores the mysteries of the universe, one small idea at a time. Each episode focuses on a different set of questions that require your active participation-- yes, I’m talking to YOU-- to shed light on the answers. A truly interactive radio experiment. .
+  host: Darrick Wood
+  showday: Wednesday
+  showtime: 6-7 PM
+  facebook:
+
+- name: In the House
+  description: Asia Institute - Crane House brings Louisville's Asian communities to the scene with music, interviews and cultural programming.  Marcus & Elijah bring Asian Pop Culture with Louisville flair to the listening audience.  The program will also highlight upcoming events and programs in Louisville's Asian communities.
+  host: Marcus Jones & Elijah Lamppin
+  showday: Thursday
+  showtime: 11 AM - 12 PM
+  facebook: https://www.facebook.com/CraneHouse
+
+- name: It's Always Something
+  description: From Colonel Sanders to Sun Ra . . It's Always Something with DJ Selby.
+  host: Sean Selby
+  showday: Saturday
+  showtime: 10 PM - ?
+  facebook: https://www.facebook.com/pages/Its-always-something-w-DJ-Selby/533783376681873
+
+- name: Juan Leone Music Hour
+  description: A collection of jazz, blues and gospel from the late 1950s to the early 1970s. This includes the beginnings of Free Jazz, the records produced by Impulse, ESP records and Columbia records. It also includes the discovery of some of the early blues masters and their work recorded during these same years. Finally, it includes the beginnings of the modern gospel revival.
+  host: Juan Leone
+  showday: Saturday
+  showtime: 8-9 AM
+  facebook:
+
+- name: KMAC Radio
+  description: KMAC Radio employs the medium of radio as a vehicle for exploring art. Hosted by the Kentucky Museum of Art and Craft, the show weaves together visual art, music, and social ideas.
+  host: Emily Miles
+  showday: Monday
+  showtime: 10-11 AM
+  facebook: https://www.facebook.com/KentuckyMuseumofArtandCraft
+
+- name: The Keeney Invasion
+  description: Prepare yourselves for an invasion of old school jams, classic rock, metal, alternative, punk, and other selections from DJ DK.  Listen to him banter with his co-host Jordan about music, weather, and current events.  Rock on Louisville!.
+  host: Doug Keeney & Jordan Roberts
+  showday: Tuesday
+  showtime: 1-2 PM
+  facebook:
+
+- name: Keep Louisville Literary
+  description: An in-depth look at literary culture in Louisville and surrounding regions.  Specific questions and excerpt readings will bring listeners into intimate contact with each author and their work.  Event and community organizers will discuss the time, love, and energy they give to Keep Louisville Literary.
+  host: Rachel Short
+  showday: Tuesday
+  showtime: 9-10 AM
+  facebook: https://www.facebook.com/keeplouisville.literary
+
+- name: Lady Jam's Juice Box
+  description: Spinning succulent treats to the most seductive beats in a diverse array of sound, Lady Jam will present beautiful chaos with a mix of tracks from Nick Cave to Annette Hanshaw. This is an invitation to juice up your world and nourish your brain with a healthy elixir of sounds.
+  host: Mary Yates
+  showday: Friday
+  showtime: 1-2 PM
+  facebook:
+
+- name: La La Land
+  description: Join host Lauren Argo in Lala land, a variety black hole featuring every thing weird in Louisville and beyond.  Trivia, radio plays, food arts and culture are all topics of exploration with weekly segments, live weird guests and eclectic music to transport you from rush hour to lala land.
+  host: Lauren Argo
+  showday: Wednesday
+  showtime: 4-6 PM
+  facebook: https://www.facebook.com/pages/Lala-Land/327295257396671
+
+- name: Latitunes And Logitunes
+  description: Throw a dart at the map or stop a spinning globe, ride a sound wave from your ears to the pitches which permeate through the people and places wherever the pin may be. Cartographer John “MudMan” Murner is your tour guide every Sunday to stimulate your sense of wonderlust with scintillating sounds surveying settlements scarcely seen and saluting the sanctuaries of rhythm that keep us all moving with a new geography each week.
+  host: John "Mudman" Murner
+  showday: Sunday
+  showtime: 6-7 PM
+  facebook: https://www.facebook.com/Latitune-and-Longitune-1149185248503709/
+
+- name: A Little Bit Country, A Little Bit Country Club
+  description: Corralling various and sundry audio pleasures from classic honky-tonk, to top 40 pop, to obscure vinyl treasures, this virtual sonic barnyard considers the bray of the donkey equivalent to the song of the nightingale. From the swine to the sublime. And...like the host...its just a little bit country, and a little bit country club.
+  host: Willie MacLean
+  showday: Monday
+  showtime: 8-10 AM
+  facebook:
+
+- name: Marianne In The Morning
+  description: Classically trained Vocalist, Preservation Advocate and Bourbon lover, Marianne Zickuhr starts your day with a discussion of the many facets of our culturally rich and artistically driven community.  From music to preservation, theater to ballet and everything in between.  Mornings with Marianne will keep you up to date on the upcoming events and not to miss performances in our community!
+  host: Marianne Zickuhr
+  showday: Monday, Tuesday, Wednesday, Thursday, Friday
+  showtime: 7-8 AM
+  facebook: https://www.facebook.com/FleurDeArts
+
+- name: Midnight Locker
+  description: Midnight Locker is a cross-genre music program that draws from seemingly disparate cultural cues.  By hearing outside of familiar contexts, listeners can recognize the cultural value of the topic explored whether it be African, Japanese, or American, with an occasional blend of local music.  The program also is aiming to invite a special DJ from outside the city, or country to share the cultural exchange via radio.
+  host: Shutaro Nogouchi
+  showday: Monday
+  showtime: 11 PM - 1 AM
+  facebook: https://www.facebook.com/midnightlocker
+
+- name: Mingle
+  description: Mingle is a weekly two-hour radio show hosted by Kevin Coultas devoted to directing listeners to music that references and reveres the past, but moves beyond it.
+  host: Kevin Coultas
+  showday: Tuesday
+  showtime: 6-8 PM
+  facebook: https://www.facebook.com/whynotmingle
+
+- name: Mir Music
+  description: An auditory excursion to traditional and popular musics of the world that also explores each idiom's cultural context in order to better understand and appreciate the surprising complexity of "simple" music.
+  host: Jake Groves
+  showday: Wednesday
+  showtime: 3-4 PM
+  facebook: https://www.facebook.com/mirmusicartxfm
+
+- name: Muddle Instead Of Music
+  description: Avant-garde, new music, contemporary classical, utterly unbearable cacophony -- scrambling your brain and senses with the best in modern composition.
+  host: Matt Ertz
+  showday: Tuesday
+  showtime: 11 AM - 12 PM
+  facebook: https://www.facebook.com/MuddleInsteadOfMusic
+
+- name: Mythic Beat
+  description: An audio collage of rhythm heavy tracks -- laced with psychedelic funk, trip-hop, experimental pop, future garage, drum & bass, synthwave & other electronic discoveries.  Each transmission is explored with film samples, video games, spoken word, and lost cultural treasures.
+  host: DJ Mythos
+  showday: Sunday
+  showtime: 10 PM - 12 AM
+  facebook: https://www.facebook.com/pages/Mythic-Beat/471606796242866?ref=ts&fref=ts
+
+- name: Night Train Cocktail Lounge
+  description: The lounge rides into the past, featuring music and lost sounds from the 1860s to the 1970s. The show follows the rails amid a mix of directions, including surf, soundtracks, garage, proto-punk, pop, No Wave, jazz, composed, blues, comedy, cylinder and 78 recordings, rock n roll, old country, field recordings from around the world and whatever is scratched onto warped vinyl hidden in the the bottom of those boxes tucked away in your grandmother's attic.
+  host: Brian Manley
+  showday: Monday
+  showtime: 7-8 PM
+  facebook: https://www.facebook.com/nighttraincocktaillounge
+
+- name: Notes From Underground
+  description: Hitting your tender bits with a brick. A full-throttle heterogeneous cyclone of eclectic aural vibrations. Tune in Mondays from Noon till 1 PM for your nerdy musical therapy with DJ Kimberly Sometimes.
+  host: Kimberly Sometimes
+  showday: Mondays
+  showtime: 12-1 PM
+  facebook:
+
+- name: No Tricks
+  description: A radio show that features a carefully curated collection of music spanning time, space and genres. Just music. No tricks.
+  host: Megan Sherehiy
+  showday: Tuesday
+  showtime: 8-9 PM
+  facebook: https://www.facebook.com/NoTricksRadio
+
+- name: Oh Man Yes!
+  description: A show to encourage you to get out and listen. A weekly sampling of music shows being played in Louisville in support of local venues and musicians + New release Tuesday. All genres/All ages.
+  host: Julie Gross
+  showday: Tuesday
+  showtime: 11 AM - 12 PM
+  facebook:
+
+- name: Parallel universe
+  description: Composing a new playlist every week from her collection as a tribute to sound and expression.  This show will play heavy bass music mixed by internationally known artists of the underground, including the contrast of groovy folk music and stories. The delivery of Kara's mixes draws parallels throughout the set, consisting of thought provoking vibration and lyrics.
+  host: Kara
+  showday: Tuesday
+  showtime: 12AM - ?
+  facebook: https://www.facebook.com/paralleluniverseartfm
+
+- name: Party Pants
+  description: This just in- the weekend starts on Wednesday! Take it sleazy with Jaxon & co. as we fix up for a weeknight rage with a soundtrack of rock & roll, punk, garage, and glam from around the world.
+  host: Jaxon Lee Swain
+  showday: Wednesday
+  showtime: 10PM - 12AM
+  facebook:
+  tumblr: http://www.partypantsradio.tumblr.com/
+
+- name: Public
+  description: PUBLIC is radio show that takes works of art chosen by community members and interprets it through music. PUBLIC is presented by the Louisville Visual Art Association, hosted by the staff of the LVAA on Louisville based radio station ART+FM.
+  host: Keith Waits of Louisville Visual Art
+  showday: Thursday
+  showtimestart: 10 AM
+  showtimeend: 11 AM
+  facebook: https://www.facebook.com/PUBLICxARTxFM
+
+- name: Punk Rockets
+  description: Mix Tapes & Miscellania from 1982 and beyond.
+  host: Leslie Millar, Ethan Buckler, & Michael Jones
+  showday: Friday
+  showtimestart: 2PM
+  showtimeend: 4PM
+  facebook:
+
+- name: Radio Presque Rein
+  description: Radio Presque Rien airs Wednesdays from 7:00am-8:00am on ARTxFM Louisville (www.artxfm.com), broadcasting soundscapes, field recordings and musics that utilize field recordings in composition or performance.
+  host: Aaron Rosenblum
+  showday: Monday
+  showtimestart: 10PM
+  showtimeend: 11PM
+  facebook: https://www.facebook.com/radiopresquerien
+
+- name: Rad Tantrum
+  description: From field recordings of birds to the dope rhyming of words.  Barking dogs, falling drops, mushroom raps, and desert traps.  From new wave to no wave to psychedelic echoes from beyond the grave.  Crypto-disco-funk to basement apartment computer punk.  Hitting you hard with the freshly spanked, the totally recalled.
+  host: McKinley Moore & Matt Dodds
+  showday: Friday
+  showtimestart: 6PM
+  showtimeend: 8PM
+  facebook:
+
+- name: River City Rumble
+  description: River City Rumble is a sonic turf war on the banks of the dirty Ohio river. Tune in Wednesdays from 7-8 for surf, psych, garage, punk and more with Brian Gray and Brad White.
+  host: Brad White & Brian Gray
+  showday: Wednesday
+  showtimestart: 7PM
+  showtimeend: 8PM
+  facebook: https://www.facebook.com/TheRiverCityRumble/
+
+- name: Rock Sexy
+  description: Wild guitars, Rock & roll, fuzzy garage, punk & soul, movers, shakers & girls galore, rockers, heartbreakers & a whole lot more...ROCK SEXY with Blythe of the Ball.
+  host: Blythe of the Ball
+  showday: Thursday
+  showtimestart: 10PM
+  showtimeend: 12AM
+  facebook: https://www.facebook.com/rocksexywithblythe
+  website: http://www.rocksexxy.blogspot.com/
+
+- name: Rough Draft
+  description: Playing a blend of music seldom heard by the masses.  Everything from punk to hip hop to free form jazz and whatever else may present itself, as well as trying to pay homage to all the great music that comes out of Louisville.
+  host: Clayton Ray & Aron Conaway
+  showday: Saturday
+  showtimestart: 6PM
+  showtimeend: 8PM
+  facebook: https://www.facebook.com/roughdraftradioshow
+
+- name: Safari
+  description: Depart on a SAFARI as Johnny Anku takes you on a journey through the best music-old and new- from Africa through the diaspora.  The weekly program is interspersed with politics, sports, culture and also provides behind the music information on Afrorock, Afrobeat, Afrojazz, High-life, Hip-life, Soukous, Zouk, Reggea, Calypso, etc.,etc.
+  host: Johnny Anku
+  showday: Saturday
+  showtimestart: 12 PM
+  showtimeend: 2 PM
+  facebook:
+
+- name: Sir Basil Outernational
+  description: Covering all aspects of Reggae music from ska roots to dub.  Classic to contemporary.
+  host: Sir Basil Bromley
+  showday: Friday
+  showtimestart: 10 AM
+  showtimeend: 12 PM
+  facebook: https://www.facebook.com/GaryBasilBromley
+
+- name: The Small Hours
+  description: Kicking off the weekend every week as early as possible; The Small Hours unleashes the Funk! Long Jams and Extended Plays, Hitting it on The One and Dropping the Bass. Dance, Dance, Dance to Funk, Disco, House and Techno every Thursday night/Friday morning at Midnight til Morning! Let The Weekend Begin With Ethan AD and The Small Hours!
+  host: Ethan A.D.
+  showday: Thursday
+  showtimestart: 12 AM
+  showtimeend: ?
+  facebook: https://www.facebook.com/The-Small-Hours-731231280311030
+
+- name: Sounds Below Sea Level
+  description: Join Johnny Siegel as he feasts on the eclectic gumbo that is New Orleans music. All genres are on the menu, from the Jazz,r&b & funk that made the Crescent City famous to contemporary rock,pop, hip hop & more.
+  host: Johnny Siegel
+  showday: Wednesday
+  showtimestart: 12 PM
+  showtimeend: 1 PM
+  facebook: https://www.facebook.com/SoundsBelowSeaLevel
+
+- name: Source Meterial
+  description: Disco though a rave lens. A weekly live mix featuring balearic textures, distorted haus, warehouse beats and uncovered dynamite.
+  host: JP Source
+  showday: Sunday
+  showtimestart: 9PM
+  showtimeend: 10PM
+  facebook: https://www.facebook.com/WXOXSourceMaterial
+
+- name: Split Ends
+  description: A weekly sonic adventure. Branching off with electronic, experimental, and everything in between from all four corners of the world.
+  host: Connor Waldman
+  showday: Sunday
+  showtimestart: 7PM
+  showtimeend: 8PM
+  facebook: https://www.facebook.com/splitendswxox
+
+- name: Square One Radio
+  description: Square One Radio is Louisville's own all Hip Hop radio show.
+  host: Clayton Ray
+  showday: Thursday
+  showtimestart: 8PM
+  showtimeend: 10PM
+  facebook: https://www.facebook.com/SquareOneRadioArtxfm
+
+- name: Sun Revolutions
+  description: Spectrum of Sounds
+  host: DJ Clawdada
+  showday: Sunday
+  showtimestart: 12PM
+  showtimeend: 2PM
+  facebook: https://www.facebook.com/GeminiTime?fref=ts
+
+- name: Tiger Transmissions
+  description: A partnership between ARTxFM and Jefferson County Schools, Tiger Transmissions amplifies the talents of Kindergarten though 5th Grade students for the entire world to hear.  During the school year, recordings are made of St. Matthews Elementary students performing songs from their musicals and discussing their experiences on stage. Directed by Derek Siebert.
+  host: The Students of St. Matthews Elementary
+  showday: ?
+  showtimestart: ?
+  showtimeend: ?
+  facebook: http://www.artxfm.com/tigertransmissions
+
+- name: Version Smith Selects
+  description: Dubs, proto-dubs, dub derivatives, dub congruencies. Version Smith selects an evening of stripped down, rhythm heavy, effects and electronics driven music.
+  host: Version Smith
+  showday: Friday
+  showtimestart: 8PM
+  showtimeend: 10PM
+  facebook:
+
+- name: Voices Of The Filson
+  description: Voices of the Filson brings Kentucky and Ohio Valley history to life, telling fascinating stories of our shared history through interviews with visiting scholars, behind-the-scenes access to archival processes and research, and information on local history events and public programming. The Filson History Hour helps fulfill The Filson's mission to collect, preserve, and tell the significant stories of Kentucky and Ohio Valley history and culture.
+  host: Aaron Rosenblum & Scott Scarboro
+  showday: Wednesday
+  showtimestart: 9AM
+  showtimeend: 10AM
+  facebook: https://www.facebook.com/The-Filson-Historical-Society-110479296400
+
+- name: The Wayfarer Way
+  description: The Wayfarer Way serves to research, discuss, and distort the world of music technology. Innovators, trend setters, and technological developments of the past, present, and future are manipulated as a means of freeing our minds from our bodies with musical expression. Join producer Colonel Crates, and an ensemble of computer generated personalities in a new and interesting head-space for radio.
+  host: Colonel Crates & Ethan A.D.
+  showday: Friday
+  showtimestart: 4PM
+  showtimeend: 6PM
+  facebook: https://www.facebook.com/pages/The-Wayfarer-Way/829570560392227
+
+- name: Wayward Distraction
+  description: Fuzzy nostalgia meets jangly discovery, wrapped in a bow.
+  host: Mark Wallis & Mark Farrell
+  showday: Friday
+  showtimestart: 10PM
+  showtimeend: 12AM
+  facebook: https://www.facebook.com/waywarddistractionwxox
+
+- name: The Wizard's Lounge
+  description: Deep beneath the studios of ARTxFM we have specialized, ultra hi-fidelity, stereophonic, and frankly, esoteric equipment that allows us to monitor dreams, nightmares and reveries to create the perfect midnight soundtrack. Fall deep down the rabbit-hole with Docktor Dave, Friday nights, midnight to 2am.
+  host: Docktor Dave
+  showday: Friday
+  showtimestart: 12AM
+  showtimeend: ?
+  facebook: https://www.facebook.com/thewizardslounge
