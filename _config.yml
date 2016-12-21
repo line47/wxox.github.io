@@ -1,5 +1,5 @@
-Source: DIR
-Destination: DIR
+Source: /wxox.github.io/
+Destination: /wxox.github.io/
 Timezone: America/Kentucky/Louisville
 Permalink: pretty
-Regeneration: -w
+Regeneration: --watch
