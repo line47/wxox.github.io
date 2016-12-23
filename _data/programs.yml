@@ -26,14 +26,16 @@
   description: Bits, schticks, music and stories for everybody, presented by actual Squallis puppets.  Suspended your disbelief and unleash the creative mind.
   host: Squallis Puppeteers
   showday: Sunday
-  showtime: 10-11 AM
+  showtimestart: 10:00
+  showtimeend: 11:00
   facebook:
 
 - name: Audio Art 101
   description: In this program, Mulit-Media Artist & Fine Arts Professor Fuschia Fuchs contextualizes local contemporary artists who work with sound within the larger global framework of contemporary art. This program will be a combination recorded sound works, live and recorded interviews, and live performances by artists. Each program will also be framed within art historical and contemporary references.
   host: Fuchsia Fuchs
   showday: Wednesday
-  showtime: 10-11 AM
+  showtimestart: 10:00
+  showtimeend: 11:00
   facebook: https://www.facebook.com/AudioArt101
 
 - name: At The Helm
@@ -135,7 +137,7 @@
   facebook: https://www.facebook.com/earlymusicparty
 
 - name: Ear To Ear
-  description: Ear-to-Ear: radio as far as the ear can hear: world musics including personal field recordings, early ethnomusicological finds, and local culture-based music. Deep focus on music-cultures emanating from Indonesia, West Africa, and India, beginning with sources and roots and exploring divergent diasporic branches. Original Field Recordings. Interviews with guest musicians and live studio performances will be a feature of Ear-to-Ear in the near future!
+  description: Ear-to-Ear radio as far as the ear can hear. World musics including personal field recordings, early ethnomusicological finds, and local culture-based music. Deep focus on music-cultures emanating from Indonesia, West Africa, and India, beginning with sources and roots and exploring divergent diasporic branches. Original Field Recordings. Interviews with guest musicians and live studio performances will be a feature of Ear-to-Ear in the near future!
   host: Gregory Acker
   showday: Sunday
   showtime: 11 AM - 12 PM
@@ -237,7 +239,7 @@
   description: From Colonel Sanders to Sun Ra . . It's Always Something with DJ Selby.
   host: Sean Selby
   showday: Saturday
-  showtime: 10 PM - ?
+  showtime: 10 PM - Whenever
   facebook: https://www.facebook.com/pages/Its-always-something-w-DJ-Selby/533783376681873
 
 - name: Juan Leone Music Hour
@@ -370,7 +372,7 @@
   description: Composing a new playlist every week from her collection as a tribute to sound and expression.  This show will play heavy bass music mixed by internationally known artists of the underground, including the contrast of groovy folk music and stories. The delivery of Kara's mixes draws parallels throughout the set, consisting of thought provoking vibration and lyrics.
   host: Kara
   showday: Tuesday
-  showtime: 12AM - ?
+  showtime: 12AM - Whenever
   facebook: https://www.facebook.com/paralleluniverseartfm
 
 - name: Party Pants
@@ -459,7 +461,7 @@
   host: Ethan A.D.
   showday: Thursday
   showtimestart: 12 AM
-  showtimeend: ?
+  showtimeend: None
   facebook: https://www.facebook.com/The-Small-Hours-731231280311030
 
 - name: Sounds Below Sea Level
@@ -505,9 +507,9 @@
 - name: Tiger Transmissions
   description: A partnership between ARTxFM and Jefferson County Schools, Tiger Transmissions amplifies the talents of Kindergarten though 5th Grade students for the entire world to hear.  During the school year, recordings are made of St. Matthews Elementary students performing songs from their musicals and discussing their experiences on stage. Directed by Derek Siebert.
   host: The Students of St. Matthews Elementary
-  showday: ?
-  showtimestart: ?
-  showtimeend: ?
+  showday: None
+  showtimestart: None
+  showtimeend: None
   facebook: http://www.artxfm.com/tigertransmissions
 
 - name: Version Smith Selects
@@ -547,5 +549,5 @@
   host: Docktor Dave
   showday: Friday
   showtimestart: 12AM
-  showtimeend: ?
+  showtimeend: None
   facebook: https://www.facebook.com/thewizardslounge
